@@ -1,0 +1,15 @@
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\QuestionNo16.csproj.AssemblyReference.cache
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\QuestionNo16.GeneratedMSBuildEditorConfig.editorconfig
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\QuestionNo16.AssemblyInfoInputs.cache
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\QuestionNo16.AssemblyInfo.cs
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\QuestionNo16.csproj.CoreCompileInputs.cache
+D:\3.1_SimpleConditons\QuestionNo16\bin\Debug\net6.0\QuestionNo16.exe
+D:\3.1_SimpleConditons\QuestionNo16\bin\Debug\net6.0\QuestionNo16.deps.json
+D:\3.1_SimpleConditons\QuestionNo16\bin\Debug\net6.0\QuestionNo16.runtimeconfig.json
+D:\3.1_SimpleConditons\QuestionNo16\bin\Debug\net6.0\QuestionNo16.dll
+D:\3.1_SimpleConditons\QuestionNo16\bin\Debug\net6.0\QuestionNo16.pdb
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\QuestionNo16.dll
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\refint\QuestionNo16.dll
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\QuestionNo16.pdb
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\QuestionNo16.genruntimeconfig.cache
+D:\3.1_SimpleConditons\QuestionNo16\obj\Debug\net6.0\ref\QuestionNo16.dll
